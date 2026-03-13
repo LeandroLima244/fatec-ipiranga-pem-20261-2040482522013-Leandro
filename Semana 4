@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+#define TAM 3
+
 // Função para exibir o tabuleiro
 void mostrarTabuleiro(char tabuleiro[TAM][TAM]) {
     printf("\n");
